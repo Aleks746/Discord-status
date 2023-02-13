@@ -14,7 +14,7 @@ client.once('ready', async () => {
     .setName('Name')
     .setDetails('Discord+')
     .addButton('Discord', 'https://discord.gg/SRKAVmX5Va')
-    .addButton('Sxela News', 'https://t.me/sxelachannel')
+    .addButton('Sxela News', 'https://t.me/+3KkBTQIucVU3Yzdi')
     .setURL('https://youtube.com/watch?v=dQw4w9WgXcQ');
   client.user.setActivity(r.toJSON());
 });
